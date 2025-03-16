@@ -1,0 +1,2 @@
+# AcilServisHastaKayitSistemi
+ Bu C programı, hastane acil servisi için hasta kaydı yönetimi ve HL7 formatında dosyaya kayıt işlemleri gerçekleştiren bir uygulamadır. Program, üç farklı öncelik seviyesinde (Yüksek, Orta, Düşük) hasta kuyruğu oluşturur ve her hasta kaydını bu kuyruğa ekler. Hastaların bilgileri, programda tanımlanan veri yapısı (struct) ile saklanır ve HL7 formatında dosyaya yazılır.
